@@ -1,2 +1,10 @@
+# Jupter Notebooks
 ipykernel
+ipywidgets
+
+# Utilities
 numpy
+pandas
+
+# Sklearn
+sklearn
