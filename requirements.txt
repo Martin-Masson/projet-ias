@@ -6,5 +6,8 @@ ipywidgets
 numpy
 pandas
 
-# Sklearn
+# Data Visualization
+seaborn
+
+# Predicting
 sklearn
