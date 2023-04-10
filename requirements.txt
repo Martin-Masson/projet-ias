@@ -9,5 +9,5 @@ pandas
 # Data Visualization
 seaborn
 
-# Predicting
-sklearn
+# Prediction
+scikit-learn
